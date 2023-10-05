@@ -1,6 +1,8 @@
 # Frontend Mentor - 3-column preview card component solution
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/3column-preview-card-component-using-css-h4Hl0GyS1I). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [3-column preview card component challenge on Frontend Mentor] 
+(https://www.frontendmentor.io/solutions/3column-preview-card-component-using-css-YPCHQsnzVj).
+Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -27,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/tmodric/3-column-preview-card-component)
-- Live Site URL: (https://tmodric-3-column-preview-card.netlify.app/)
+- Live Site URL: (https://tmodric-preview-card-component.netlify.app/)
 
 ## My process
 
